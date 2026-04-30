@@ -9,7 +9,7 @@
 - [x] `dashboard/styles.css` | Styling: badges, cards, animations, responsive | Validated: 2026-04-30
 - [x] `dashboard/README.md` | Docs: dashboard usage and customization guide | Validated: 2026-04-30
 - [x] `index.html` | UI: landing page with stats, features, CTA | Validated: 2026-04-30
-- [x] `.github/workflows/monitor.yml` | CI/CD: cron (6h), monitor run, commit, deploy | Validated: 2026-04-30
+- [x] `.github/workflows/monitor.yml` | CI/CD: cron (6h), monitor run, commit, GitHub Pages deploy | Validated: 2026-04-30
 - [x] `requirements.txt` | Deps: requests, pytz | Validated: 2026-04-30
 - [x] `README.md` | Docs: project overview, setup instructions | Validated: 2026-04-30
 - [x] `AGENTS.md` | Config: workflow rules, AI directives, token budgets | Validated: 2026-04-30
@@ -29,5 +29,7 @@
 - `models.json` populated with 29 entries ✅
 - `CHANGELOG.json` initialized with first entry ✅
 - `MODELS.md` regenerated ✅
-- Dashboard/landing page: updated branding, not browser-tested yet ❌
-- GitHub Actions workflow: not triggered yet ❌
+- Dashboard/landing page: updated branding, not browser-tested yet ❌ → verified live on GitHub Pages ✅
+- GitHub Actions workflow: monitor + GitHub Pages deploy ✅ | Cloudflare job removed ✅
+- Discord notification: delivered ✅
+- GitHub Pages: https://skyeagle888.github.io/openrouter-free-models-monitors/ ✅

@@ -31,6 +31,6 @@ Monitor OpenRouter's free AI model catalog for additions, removals, and updates.
 - NFR-4: Monitor script must handle API failures gracefully (exit code 1)
 
 ### Constraints
-- GitHub Actions secrets: `DISCORD_WEBHOOK_URL` (required), Cloudflare (optional)
-- GitHub Pages: `gh-pages` branch
+- GitHub Actions secrets: `DISCORD_WEBHOOK_URL` (required)
+- GitHub Pages: `gh-pages` branch (primary deployment)
 - Model classification based on keyword patterns in model ID

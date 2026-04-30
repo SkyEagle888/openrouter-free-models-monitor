@@ -26,12 +26,12 @@
 ### Phase 5: Documentation ✅
 - [x] P5-1: Expand `README.md` with setup instructions and structure
 
-### Phase 6: Deployment (Pending)
-- [ ] P6-1: Commit and push all changes to GitHub
-- [ ] P6-2: Manually trigger GitHub Actions workflow to verify
-- [ ] P6-3: Enable GitHub Pages (`gh-pages` branch)
-- [ ] P6-4: Verify Discord notification delivery
-- [ ] P6-5: Verify dashboard loads on GitHub Pages
+### Phase 6: Deployment ✅
+- [x] P6-1: Commit and push all changes to GitHub
+- [x] P6-2: Manually trigger GitHub Actions workflow to verify
+- [x] P6-3: Enable GitHub Pages (`gh-pages` branch)
+- [x] P6-4: Verify Discord notification delivery
+- [x] P6-5: Verify dashboard loads on GitHub Pages
 
 ### Phase 7: Optional
-- [ ] P7-1: Configure Cloudflare Pages deployment (if desired)
+- [x] ~~P7-1: Configure Cloudflare Pages deployment~~ → Cancelled: Cloudflare deployment removed
