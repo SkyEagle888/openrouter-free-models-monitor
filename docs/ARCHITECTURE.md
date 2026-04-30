@@ -21,15 +21,13 @@ OpenRouter API → monitor.py → models.json / CHANGELOG.json / MODELS.md
 - **Python deps**: `requests`, `pytz` (see `requirements.txt`)
 - **Frontend**: Vanilla JS, jQuery 3.7.1, Chart.js 4.4.0, DataTables 1.13.7, Tailwind CSS (CDN)
 - **CI/CD**: GitHub Actions (ubuntu-latest)
-- **Deployment**: GitHub Pages (primary), Cloudflare Pages (optional)
+- **Deployment**: GitHub Pages (primary)
 
 ## Deployment & Infra
 
 - **GitHub Actions workflow**: `monitor.yml` — cron `17 1,7,13,19 * * *` + manual trigger
 - **GitHub Pages**: `gh-pages` branch, served from root
-- **Cloudflare Pages**: `openrouter-free-models-monitors` project (optional, requires secrets)
 - **Secrets required**: `DISCORD_WEBHOOK_URL` (set), `GITHUB_TOKEN` (auto)
-- **Secrets optional**: `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`
 
 ## Data Model & Schema
 

@@ -38,3 +38,15 @@
   - Discord notification delivered (29 free models, no changes)
 - Validation: GitHub Actions ✅ | Discord ✅ | GitHub Pages ✅ | Cloudflare ❌ (no secrets, expected)
 - Risk: Low | Rollback: disable Pages, revert commits
+
+2026-04-30 | [Remove Cloudflare deployment from CI/CD]
+
+- Files:
+  - `.github/workflows/monitor.yml` (removed `deploy-cloudflare` job)
+  - `docs/ARCHITECTURE.md` (removed Cloudflare from deployment & secrets)
+  - `docs/CONTEXT-MAP.md` (updated workflow description, validation status)
+  - `docs/SCOPE.md` (removed Cloudflare from constraints)
+  - `docs/PLAN.md` (P7-1 cancelled)
+  - `docs/CHANGE-LOG.md` (this entry)
+- Validation: workflow YAML valid ✅ | Cloudflare references fully removed ✅
+- Risk: Low | Rollback: re-add `deploy-cloudflare` job from git history
