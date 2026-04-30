@@ -24,3 +24,17 @@
   - `docs/PLAN.md` (created)
 - Validation: `python monitor.py` ✅ | 29 models detected ✅ | Discord skip (no local webhook) ✅
 - Risk: Low | Rollback: revert to NVIDIA version via git history
+
+2026-04-30 | [Phase 6: Deploy to GitHub, verify CI/CD pipeline]
+
+- Files:
+  - `docs/PLAN.md` (Phase 6 tasks marked complete)
+  - `docs/CONTEXT-MAP.md` (validation status updated)
+  - `docs/CHANGE-LOG.md` (this entry)
+- Actions:
+  - Committed & pushed `c4bb0fc` → `main` (20 files, 2026 insertions)
+  - Triggered workflow `25146989095` → monitor ✅ (13s), deploy ✅ (5s), cloudflare ❌ (expected — no secrets)
+  - Enabled GitHub Pages on `gh-pages` branch, triggered build → built ✅
+  - Discord notification delivered (29 free models, no changes)
+- Validation: GitHub Actions ✅ | Discord ✅ | GitHub Pages ✅ | Cloudflare ❌ (no secrets, expected)
+- Risk: Low | Rollback: disable Pages, revert commits

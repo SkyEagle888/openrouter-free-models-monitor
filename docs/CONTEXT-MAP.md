@@ -29,5 +29,7 @@
 - `models.json` populated with 29 entries ✅
 - `CHANGELOG.json` initialized with first entry ✅
 - `MODELS.md` regenerated ✅
-- Dashboard/landing page: updated branding, not browser-tested yet ❌
-- GitHub Actions workflow: not triggered yet ❌
+- Dashboard/landing page: updated branding, not browser-tested yet ❌ → verified live on GitHub Pages ✅
+- GitHub Actions workflow: not triggered yet ❌ → triggered, monitor + deploy succeeded ✅
+- Discord notification: delivered ✅
+- GitHub Pages: https://skyeagle888.github.io/openrouter-free-models-monitors/ ✅
