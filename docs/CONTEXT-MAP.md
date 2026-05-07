@@ -32,4 +32,4 @@
 - Dashboard/landing page: updated branding, not browser-tested yet ❌ → verified live on GitHub Pages ✅
 - GitHub Actions workflow: monitor + GitHub Pages deploy ✅ | Cloudflare job removed ✅
 - Discord notification: delivered ✅
-- GitHub Pages: https://skyeagle888.github.io/openrouter-free-models-monitors/ ✅
+- GitHub Pages: https://skyeagle888.github.io/openrouter-free-models-monitor/ ✅

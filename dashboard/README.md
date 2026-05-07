@@ -14,7 +14,7 @@ An interactive web dashboard for exploring and discovering free AI models from O
 ## Access
 
 The dashboard is automatically deployed to GitHub Pages at:
-`https://<username>.github.io/openrouter-free-models-monitors/dashboard/`
+`https://<username>.github.io/openrouter-free-models-monitor/dashboard/`
 
 ## Local Development
 

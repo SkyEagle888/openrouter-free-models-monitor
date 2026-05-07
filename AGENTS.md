@@ -26,7 +26,7 @@
 
 ## AI Directives
 
-- Adapted from `nvidia-nim-models-monitor` → `openrouter-free-models-monitors`.
+- Adapted from `nvidia-nim-models-monitor` → `openrouter-free-models-monitor`.
 - Free models identified by `:free` suffix in model ID from `https://openrouter.ai/api/v1/models`.
 - Same storage mechanism: `models.json`, `CHANGELOG.json`, `MODELS.md`.
 - Same Discord notification pattern with "OpenRouter" branding.
