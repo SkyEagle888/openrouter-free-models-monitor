@@ -1,21 +1,17 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-05-06 04:19:04 GMT+8*
+*Last updated: 2026-05-07 08:58:52 GMT+8*
 
-Total Free Models: **29**
+Total Free Models: **25**
 
 ### 🏢 BAIDU
+- `baidu/cobuddy:free`
 - `baidu/qianfan-ocr-fast:free`
 
 ### 🏢 COGNITIVECOMPUTATIONS
 - `cognitivecomputations/dolphin-mistral-24b-venice-edition:free`
 
 ### 🏢 GOOGLE
-- `google/gemma-3-12b-it:free`
-- `google/gemma-3-27b-it:free`
-- `google/gemma-3-4b-it:free`
-- `google/gemma-3n-e2b-it:free`
-- `google/gemma-3n-e4b-it:free`
 - `google/gemma-4-26b-a4b-it:free`
 - `google/gemma-4-31b-it:free`
 
