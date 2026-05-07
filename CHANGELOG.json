@@ -49,6 +49,14 @@
         "google/gemma-3n-e4b-it:free"
       ],
       "total_models": 25
+    },
+    {
+      "timestamp": "2026-05-07T15:39:01.565753Z",
+      "added": [],
+      "removed": [
+        "inclusionai/ling-2.6-1t:free"
+      ],
+      "total_models": 24
     }
   ]
 }
