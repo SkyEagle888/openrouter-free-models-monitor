@@ -2,7 +2,7 @@ import requests
 import json
 import os
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from collections import defaultdict
 import pytz
 
@@ -66,7 +66,7 @@ def save_changelog(changelog):
 def update_changelog(added, removed, total_models):
     changelog = load_changelog()
     entry = {
-        "timestamp": datetime.now(datetime.timezone.utc).isoformat().replace('+00:00', 'Z'),
+        "timestamp": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z'),
         "added": added,
         "removed": removed,
         "total_models": total_models
