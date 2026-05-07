@@ -1,4 +1,4 @@
-# openrouter-free-models-monitors
+# openrouter-free-models-monitor
 
 Monitor the changes (add/remove/update) of [OpenRouter's free models](https://openrouter.ai/models?q=free).
 

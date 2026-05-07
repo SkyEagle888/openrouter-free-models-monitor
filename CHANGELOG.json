@@ -35,6 +35,20 @@
       ],
       "removed": [],
       "total_models": 29
+    },
+    {
+      "timestamp": "2026-05-07T00:58:52.118609Z",
+      "added": [
+        "baidu/cobuddy:free"
+      ],
+      "removed": [
+        "google/gemma-3-12b-it:free",
+        "google/gemma-3-27b-it:free",
+        "google/gemma-3-4b-it:free",
+        "google/gemma-3n-e2b-it:free",
+        "google/gemma-3n-e4b-it:free"
+      ],
+      "total_models": 25
     }
   ]
 }
