@@ -57,6 +57,14 @@
         "inclusionai/ling-2.6-1t:free"
       ],
       "total_models": 24
+    },
+    {
+      "timestamp": "2026-05-08T20:17:20.748372Z",
+      "added": [
+        "inclusionai/ring-2.6-1t:free"
+      ],
+      "removed": [],
+      "total_models": 25
     }
   ]
 }
