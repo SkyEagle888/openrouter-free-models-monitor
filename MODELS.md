@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-05-08 23:03:26 GMT+8*
+*Last updated: 2026-05-09 04:17:20 GMT+8*
 
-Total Free Models: **24**
+Total Free Models: **25**
 
 ### 🏢 BAIDU
 - `baidu/cobuddy:free`
@@ -14,6 +14,9 @@ Total Free Models: **24**
 ### 🏢 GOOGLE
 - `google/gemma-4-26b-a4b-it:free`
 - `google/gemma-4-31b-it:free`
+
+### 🏢 INCLUSIONAI
+- `inclusionai/ring-2.6-1t:free`
 
 ### 🏢 LIQUID
 - `liquid/lfm-2.5-1.2b-instruct:free`
