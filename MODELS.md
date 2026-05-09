@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-05-09 04:17:20 GMT+8*
+*Last updated: 2026-05-09 12:34:39 GMT+8*
 
-Total Free Models: **25**
+Total Free Models: **24**
 
 ### 🏢 BAIDU
 - `baidu/cobuddy:free`
@@ -50,9 +50,6 @@ Total Free Models: **25**
 ### 🏢 QWEN
 - `qwen/qwen3-coder:free`
 - `qwen/qwen3-next-80b-a3b-instruct:free`
-
-### 🏢 TENCENT
-- `tencent/hy3-preview:free`
 
 ### 🏢 Z-AI
 - `z-ai/glm-4.5-air:free`

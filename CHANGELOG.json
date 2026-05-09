@@ -65,6 +65,14 @@
       ],
       "removed": [],
       "total_models": 25
+    },
+    {
+      "timestamp": "2026-05-09T04:34:39.606558Z",
+      "added": [],
+      "removed": [
+        "tencent/hy3-preview:free"
+      ],
+      "total_models": 24
     }
   ]
 }
