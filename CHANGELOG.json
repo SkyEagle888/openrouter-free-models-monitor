@@ -73,6 +73,14 @@
         "tencent/hy3-preview:free"
       ],
       "total_models": 24
+    },
+    {
+      "timestamp": "2026-05-11T16:12:36.378585Z",
+      "added": [
+        "arcee-ai/trinity-large-thinking:free"
+      ],
+      "removed": [],
+      "total_models": 25
     }
   ]
 }
