@@ -1,7 +1,6 @@
 [
   "arcee-ai/trinity-large-thinking:free",
   "baidu/cobuddy:free",
-  "baidu/qianfan-ocr-fast:free",
   "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
   "deepseek/deepseek-v4-flash:free",
   "google/gemma-4-26b-a4b-it:free",
