@@ -89,6 +89,14 @@
       ],
       "removed": [],
       "total_models": 26
+    },
+    {
+      "timestamp": "2026-05-14T15:34:59.756505Z",
+      "added": [],
+      "removed": [
+        "baidu/qianfan-ocr-fast:free"
+      ],
+      "total_models": 25
     }
   ]
 }
