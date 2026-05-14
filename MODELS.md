@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-05-14 04:56:32 GMT+8*
+*Last updated: 2026-05-14 12:57:53 GMT+8*
 
-Total Free Models: **25**
+Total Free Models: **26**
 
 ### 🏢 ARCEE-AI
 - `arcee-ai/trinity-large-thinking:free`
@@ -13,6 +13,9 @@ Total Free Models: **25**
 
 ### 🏢 COGNITIVECOMPUTATIONS
 - `cognitivecomputations/dolphin-mistral-24b-venice-edition:free`
+
+### 🏢 DEEPSEEK
+- `deepseek/deepseek-v4-flash:free`
 
 ### 🏢 GOOGLE
 - `google/gemma-4-26b-a4b-it:free`

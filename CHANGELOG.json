@@ -81,6 +81,14 @@
       ],
       "removed": [],
       "total_models": 25
+    },
+    {
+      "timestamp": "2026-05-14T04:57:53.539989Z",
+      "added": [
+        "deepseek/deepseek-v4-flash:free"
+      ],
+      "removed": [],
+      "total_models": 26
     }
   ]
 }
