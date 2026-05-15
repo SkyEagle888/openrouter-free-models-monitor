@@ -97,6 +97,14 @@
         "baidu/qianfan-ocr-fast:free"
       ],
       "total_models": 25
+    },
+    {
+      "timestamp": "2026-05-15T15:31:27.246762Z",
+      "added": [],
+      "removed": [
+        "inclusionai/ring-2.6-1t:free"
+      ],
+      "total_models": 24
     }
   ]
 }

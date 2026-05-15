@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-05-15 18:00:10 GMT+8*
+*Last updated: 2026-05-15 23:31:27 GMT+8*
 
-Total Free Models: **25**
+Total Free Models: **24**
 
 ### 🏢 ARCEE-AI
 - `arcee-ai/trinity-large-thinking:free`
@@ -19,9 +19,6 @@ Total Free Models: **25**
 ### 🏢 GOOGLE
 - `google/gemma-4-26b-a4b-it:free`
 - `google/gemma-4-31b-it:free`
-
-### 🏢 INCLUSIONAI
-- `inclusionai/ring-2.6-1t:free`
 
 ### 🏢 LIQUID
 - `liquid/lfm-2.5-1.2b-instruct:free`
