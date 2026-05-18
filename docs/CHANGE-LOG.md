@@ -39,6 +39,14 @@
 - Validation: GitHub Actions ✅ | Discord ✅ | GitHub Pages ✅ | Cloudflare ❌ (no secrets, expected)
 - Risk: Low | Rollback: disable Pages, revert commits
 
+2026-05-18 | [Memory system initialization & protocol sync]
+
+- Files:
+  - `AGENTS.md` (added `## Architecture & Token Control` section with graphify integration)
+  - `docs/CHANGE-LOG.md` (this entry)
+- Validation: all 6 target files verified with required headers ✅ | AGENTS.md protocol sections complete ✅
+- Risk: Low | Rollback: remove `## Architecture & Token Control` section from AGENTS.md
+
 2026-04-30 | [Remove Cloudflare deployment from CI/CD]
 
 - Files:
