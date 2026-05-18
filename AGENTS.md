@@ -17,6 +17,14 @@
 - Validate implementation output against `PLAN.md` checkbox status before marking `- [x]`.
 - Flag requirement deviations or scope drift in `CHANGE-LOG.md` immediately; do not auto-modify upstream references.
 
+## Architecture & Token Control
+
+- If `graphify-out/GRAPH_REPORT.md` exists
+  - Before reading source files, running grep, or generating code, read `graphify-out/GRAPH_REPORT.md`.
+  - Extract only the target modules, god nodes, and cross-dependencies relevant to the task.
+  - Retrieve files strictly by path listed in the report. Do not traverse directories recursively.
+  - After code changes, execute `graphify update .` before committing.
+
 ## Token Budgets
 
 - Combined memory file footprint target: <50KB.
