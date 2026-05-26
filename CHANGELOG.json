@@ -105,6 +105,14 @@
         "inclusionai/ring-2.6-1t:free"
       ],
       "total_models": 24
+    },
+    {
+      "timestamp": "2026-05-26T21:01:55.439966Z",
+      "added": [],
+      "removed": [
+        "arcee-ai/trinity-large-thinking:free"
+      ],
+      "total_models": 23
     }
   ]
 }
