@@ -1,11 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-05-27 00:53:04 GMT+8*
+*Last updated: 2026-05-27 05:01:55 GMT+8*
 
-Total Free Models: **24**
-
-### 🏢 ARCEE-AI
-- `arcee-ai/trinity-large-thinking:free`
+Total Free Models: **23**
 
 ### 🏢 BAIDU
 - `baidu/cobuddy:free`
