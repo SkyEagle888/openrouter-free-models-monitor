@@ -1,11 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-05-27 19:01:51 GMT+8*
+*Last updated: 2026-05-28 00:47:07 GMT+8*
 
-Total Free Models: **23**
-
-### 🏢 BAIDU
-- `baidu/cobuddy:free`
+Total Free Models: **22**
 
 ### 🏢 COGNITIVECOMPUTATIONS
 - `cognitivecomputations/dolphin-mistral-24b-venice-edition:free`

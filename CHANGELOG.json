@@ -113,6 +113,14 @@
         "arcee-ai/trinity-large-thinking:free"
       ],
       "total_models": 23
+    },
+    {
+      "timestamp": "2026-05-27T16:47:07.928810Z",
+      "added": [],
+      "removed": [
+        "baidu/cobuddy:free"
+      ],
+      "total_models": 22
     }
   ]
 }
