@@ -121,6 +121,14 @@
         "baidu/cobuddy:free"
       ],
       "total_models": 22
+    },
+    {
+      "timestamp": "2026-05-27T21:14:19.787671Z",
+      "added": [
+        "moonshotai/kimi-k2.6:free"
+      ],
+      "removed": [],
+      "total_models": 23
     }
   ]
 }
