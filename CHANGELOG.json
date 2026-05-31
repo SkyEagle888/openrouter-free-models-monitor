@@ -129,6 +129,14 @@
       ],
       "removed": [],
       "total_models": 23
+    },
+    {
+      "timestamp": "2026-05-31T05:45:48.225585Z",
+      "added": [],
+      "removed": [
+        "minimax/minimax-m2.5:free"
+      ],
+      "total_models": 22
     }
   ]
 }

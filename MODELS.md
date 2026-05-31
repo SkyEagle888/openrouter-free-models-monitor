@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-05-31 04:18:01 GMT+8*
+*Last updated: 2026-05-31 13:45:48 GMT+8*
 
-Total Free Models: **23**
+Total Free Models: **22**
 
 ### 🏢 COGNITIVECOMPUTATIONS
 - `cognitivecomputations/dolphin-mistral-24b-venice-edition:free`
@@ -21,9 +21,6 @@ Total Free Models: **23**
 ### 🏢 META-LLAMA
 - `meta-llama/llama-3.2-3b-instruct:free`
 - `meta-llama/llama-3.3-70b-instruct:free`
-
-### 🏢 MINIMAX
-- `minimax/minimax-m2.5:free`
 
 ### 🏢 MOONSHOTAI
 - `moonshotai/kimi-k2.6:free`
