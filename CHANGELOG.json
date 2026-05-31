@@ -137,6 +137,14 @@
         "minimax/minimax-m2.5:free"
       ],
       "total_models": 22
+    },
+    {
+      "timestamp": "2026-05-31T14:56:59.663066Z",
+      "added": [],
+      "removed": [
+        "deepseek/deepseek-v4-flash:free"
+      ],
+      "total_models": 21
     }
   ]
 }
