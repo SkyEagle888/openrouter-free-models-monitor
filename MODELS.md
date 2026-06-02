@@ -1,6 +1,6 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-06-03 01:50:27 GMT+8*
+*Last updated: 2026-06-03 06:04:36 GMT+8*
 
 Total Free Models: **21**
 
