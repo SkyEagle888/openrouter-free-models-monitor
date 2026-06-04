@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-06-04 18:45:05 GMT+8*
+*Last updated: 2026-06-05 00:29:21 GMT+8*
 
-Total Free Models: **21**
+Total Free Models: **23**
 
 ### 🏢 COGNITIVECOMPUTATIONS
 - `cognitivecomputations/dolphin-mistral-24b-venice-edition:free`
@@ -29,6 +29,8 @@ Total Free Models: **21**
 - `nvidia/nemotron-3-nano-30b-a3b:free`
 - `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`
 - `nvidia/nemotron-3-super-120b-a12b:free`
+- `nvidia/nemotron-3-ultra-550b-a55b:free`
+- `nvidia/nemotron-3.5-content-safety:free`
 - `nvidia/nemotron-nano-12b-v2-vl:free`
 - `nvidia/nemotron-nano-9b-v2:free`
 
