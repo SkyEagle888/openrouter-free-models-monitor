@@ -145,6 +145,15 @@
         "deepseek/deepseek-v4-flash:free"
       ],
       "total_models": 21
+    },
+    {
+      "timestamp": "2026-06-04T16:29:21.415213Z",
+      "added": [
+        "nvidia/nemotron-3-ultra-550b-a55b:free",
+        "nvidia/nemotron-3.5-content-safety:free"
+      ],
+      "removed": [],
+      "total_models": 23
     }
   ]
 }
