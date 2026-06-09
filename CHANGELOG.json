@@ -154,6 +154,14 @@
       ],
       "removed": [],
       "total_models": 23
+    },
+    {
+      "timestamp": "2026-06-08T21:18:22.211865Z",
+      "added": [
+        "nex-agi/nex-n2-pro:free"
+      ],
+      "removed": [],
+      "total_models": 24
     }
   ]
 }
