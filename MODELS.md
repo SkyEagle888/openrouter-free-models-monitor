@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-06-10 05:14:06 GMT+8*
+*Last updated: 2026-06-10 13:48:41 GMT+8*
 
-Total Free Models: **24**
+Total Free Models: **23**
 
 ### 🏢 COGNITIVECOMPUTATIONS
 - `cognitivecomputations/dolphin-mistral-24b-venice-edition:free`
@@ -48,7 +48,4 @@ Total Free Models: **24**
 ### 🏢 QWEN
 - `qwen/qwen3-coder:free`
 - `qwen/qwen3-next-80b-a3b-instruct:free`
-
-### 🏢 Z-AI
-- `z-ai/glm-4.5-air:free`
 
