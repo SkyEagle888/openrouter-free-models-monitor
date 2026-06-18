@@ -1,5 +1,6 @@
 [
   "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
+  "cohere/north-mini-code:free",
   "google/gemma-4-26b-a4b-it:free",
   "google/gemma-4-31b-it:free",
   "liquid/lfm-2.5-1.2b-instruct:free",

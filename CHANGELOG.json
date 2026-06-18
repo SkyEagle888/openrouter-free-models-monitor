@@ -178,6 +178,14 @@
         "moonshotai/kimi-k2.6:free"
       ],
       "total_models": 22
+    },
+    {
+      "timestamp": "2026-06-18T06:10:27.262827Z",
+      "added": [
+        "cohere/north-mini-code:free"
+      ],
+      "removed": [],
+      "total_models": 23
     }
   ]
 }
