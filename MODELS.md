@@ -1,11 +1,14 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-06-18 05:22:33 GMT+8*
+*Last updated: 2026-06-18 14:10:27 GMT+8*
 
-Total Free Models: **22**
+Total Free Models: **23**
 
 ### 🏢 COGNITIVECOMPUTATIONS
 - `cognitivecomputations/dolphin-mistral-24b-venice-edition:free`
+
+### 🏢 COHERE
+- `cohere/north-mini-code:free`
 
 ### 🏢 GOOGLE
 - `google/gemma-4-26b-a4b-it:free`
