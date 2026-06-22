@@ -186,6 +186,14 @@
       ],
       "removed": [],
       "total_models": 23
+    },
+    {
+      "timestamp": "2026-06-22T17:52:37.298992Z",
+      "added": [],
+      "removed": [
+        "nex-agi/nex-n2-pro:free"
+      ],
+      "total_models": 22
     }
   ]
 }
