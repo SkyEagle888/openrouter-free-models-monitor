@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-06-22 21:06:24 GMT+8*
+*Last updated: 2026-06-23 01:52:37 GMT+8*
 
-Total Free Models: **23**
+Total Free Models: **22**
 
 ### 🏢 COGNITIVECOMPUTATIONS
 - `cognitivecomputations/dolphin-mistral-24b-venice-edition:free`
@@ -21,9 +21,6 @@ Total Free Models: **23**
 ### 🏢 META-LLAMA
 - `meta-llama/llama-3.2-3b-instruct:free`
 - `meta-llama/llama-3.3-70b-instruct:free`
-
-### 🏢 NEX-AGI
-- `nex-agi/nex-n2-pro:free`
 
 ### 🏢 NOUSRESEARCH
 - `nousresearch/hermes-3-llama-3.1-405b:free`
