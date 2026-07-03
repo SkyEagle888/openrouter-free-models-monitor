@@ -194,6 +194,14 @@
         "nex-agi/nex-n2-pro:free"
       ],
       "total_models": 22
+    },
+    {
+      "timestamp": "2026-07-03T10:11:17.120267Z",
+      "added": [
+        "poolside/laguna-xs-2.1:free"
+      ],
+      "removed": [],
+      "total_models": 23
     }
   ]
 }
