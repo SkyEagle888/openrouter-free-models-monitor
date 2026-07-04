@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-07-02 18:15:00 GMT+8*
+*Last updated: 2026-07-03 18:11:17 GMT+8*
 
-Total Free Models: **22**
+Total Free Models: **23**
 
 ### 🏢 COGNITIVECOMPUTATIONS
 - `cognitivecomputations/dolphin-mistral-24b-venice-edition:free`
@@ -40,6 +40,7 @@ Total Free Models: **22**
 
 ### 🏢 POOLSIDE
 - `poolside/laguna-m.1:free`
+- `poolside/laguna-xs-2.1:free`
 - `poolside/laguna-xs.2:free`
 
 ### 🏢 QWEN
