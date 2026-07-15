@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-07-13 18:35:29 GMT+8*
+*Last updated: 2026-07-14 17:18:05 GMT+8*
 
-Total Free Models: **23**
+Total Free Models: **20**
 
 ### 🏢 COGNITIVECOMPUTATIONS
 - `cognitivecomputations/dolphin-mistral-24b-venice-edition:free`
@@ -13,10 +13,6 @@ Total Free Models: **23**
 ### 🏢 GOOGLE
 - `google/gemma-4-26b-a4b-it:free`
 - `google/gemma-4-31b-it:free`
-
-### 🏢 LIQUID
-- `liquid/lfm-2.5-1.2b-instruct:free`
-- `liquid/lfm-2.5-1.2b-thinking:free`
 
 ### 🏢 META-LLAMA
 - `meta-llama/llama-3.2-3b-instruct:free`
@@ -35,7 +31,6 @@ Total Free Models: **23**
 - `nvidia/nemotron-nano-9b-v2:free`
 
 ### 🏢 OPENAI
-- `openai/gpt-oss-120b:free`
 - `openai/gpt-oss-20b:free`
 
 ### 🏢 POOLSIDE

@@ -218,6 +218,16 @@
         "poolside/laguna-xs.2:free"
       ],
       "total_models": 23
+    },
+    {
+      "timestamp": "2026-07-14T09:18:05.192571Z",
+      "added": [],
+      "removed": [
+        "liquid/lfm-2.5-1.2b-instruct:free",
+        "liquid/lfm-2.5-1.2b-thinking:free",
+        "openai/gpt-oss-120b:free"
+      ],
+      "total_models": 20
     }
   ]
 }
