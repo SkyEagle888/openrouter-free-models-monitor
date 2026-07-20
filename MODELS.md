@@ -1,11 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-07-19 17:17:46 GMT+8*
+*Last updated: 2026-07-20 18:20:48 GMT+8*
 
-Total Free Models: **20**
-
-### 🏢 COGNITIVECOMPUTATIONS
-- `cognitivecomputations/dolphin-mistral-24b-venice-edition:free`
+Total Free Models: **14**
 
 ### 🏢 COHERE
 - `cohere/north-mini-code:free`
@@ -13,13 +10,6 @@ Total Free Models: **20**
 ### 🏢 GOOGLE
 - `google/gemma-4-26b-a4b-it:free`
 - `google/gemma-4-31b-it:free`
-
-### 🏢 META-LLAMA
-- `meta-llama/llama-3.2-3b-instruct:free`
-- `meta-llama/llama-3.3-70b-instruct:free`
-
-### 🏢 NOUSRESEARCH
-- `nousresearch/hermes-3-llama-3.1-405b:free`
 
 ### 🏢 NVIDIA
 - `nvidia/nemotron-3-nano-30b-a3b:free`
@@ -36,10 +26,6 @@ Total Free Models: **20**
 ### 🏢 POOLSIDE
 - `poolside/laguna-m.1:free`
 - `poolside/laguna-xs-2.1:free`
-
-### 🏢 QWEN
-- `qwen/qwen3-coder:free`
-- `qwen/qwen3-next-80b-a3b-instruct:free`
 
 ### 🏢 TENCENT
 - `tencent/hy3:free`
