@@ -35,3 +35,8 @@
 
 ### Phase 7: Optional
 - [x] ~~P7-1: Configure Cloudflare Pages deployment~~ → Cancelled: Cloudflare deployment removed
+
+### Phase 8: Discord Silence on No-Change ✅
+- [x] P8-1: Skip Discord notification when no changes detected (initial run still notifies)
+- [x] P8-2: Update README.md and ARCHITECTURE.md to document silence behavior
+- [x] P8-3: Validate locally with no-change scenario (`python monitor.py` → Discord skipped)

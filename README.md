@@ -6,7 +6,7 @@ Monitor the changes (add/remove/update) of [OpenRouter's free models](https://op
 
 - Fetches the model list from [OpenRouter API](https://openrouter.ai/api/v1/models) and filters for free models (IDs ending with `:free`)
 - Compares against the previously stored list to detect additions and removals
-- Sends Discord notifications when changes are detected
+- Sends Discord notifications **only when changes are detected** (silent on no-change runs)
 - Updates `models.json`, `MODELS.md`, and `CHANGELOG.json` in the repository
 - Runs automatically every 6 hours via GitHub Actions
 

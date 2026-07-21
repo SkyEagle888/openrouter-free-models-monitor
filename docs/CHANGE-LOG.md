@@ -1,5 +1,23 @@
 ## Session Summaries
 
+2026-07-21 | [Skip Discord notification when no changes detected]
+
+- Intent: Reduce Discord noise — silent on no-change cron runs while still notifying on initial setup and real additions/removals.
+- Files:
+  - `monitor.py` (`main()` — added `has_changes` flag; skip Discord when `not has_changes and not is_initial_run`; still update `MODELS.md`/files as before)
+  - `README.md` (clarified "only when changes are detected")
+  - `docs/ARCHITECTURE.md` (Monitor Script description reflects silent-no-change behavior)
+  - `docs/PLAN.md` (Phase 8 added — Discord Silence on No-Change ✅)
+  - `docs/CHANGE-LOG.md` (this entry)
+  - `docs/CONTEXT-MAP.md` (validation status updated)
+- Validation: `python monitor.py` locally → printed "No changes detected... Discord notification skipped" ✅
+- Behavior matrix:
+  - Initial run (empty `models.json`) → Discord sent (🆕 Initial setup message)
+  - No change (added + removed both empty) → Discord **skipped**, log line printed
+  - Real change (added or removed non-empty) → Discord sent (🚨 ALERT message)
+- Workflow: `.github/workflows/monitor.yml` unchanged — `monitor.py` handles the Discord-skip logic; existing `git diff --quiet` guard already prevents empty commits.
+- Risk: Low | Rollback: revert `monitor.py` `main()` to pre-Phase-8 version
+
 2026-04-30 | [Port NVIDIA NIM monitor → OpenRouter free models monitor]
 
 - Files:
