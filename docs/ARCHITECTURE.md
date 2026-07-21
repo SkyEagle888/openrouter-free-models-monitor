@@ -1,6 +1,6 @@
 ## System Topology
 
-- **Monitor Script** (`monitor.py`): Python script. Fetches OpenRouter API, detects changes, updates JSON/MD files, sends Discord webhook.
+- **Monitor Script** (`monitor.py`): Python script. Fetches OpenRouter API, detects changes, updates JSON/MD files, sends Discord webhook **only when changes are detected** (silent on no-change).
 - **GitHub Actions** (`.github/workflows/monitor.yml`): Cron-triggered (every 6h). Runs monitor, commits changes, deploys.
 - **Dashboard** (`dashboard/`): Static SPA. Loads `models.json` + `CHANGELOG.json` via fetch. Chart.js + DataTables + Tailwind CSS.
 - **Landing Page** (`index.html`): Static HTML. Loads `models.json` for stats.

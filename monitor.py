@@ -140,9 +140,10 @@ def main():
     removed = sorted(list(set(previous_models) - set(current_models)))
 
     timestamp = datetime.now(TIMEZONE).strftime("%Y-%m-%d %H:%M:%S")
+    has_changes = bool(added or removed)
 
-    if not added and not removed:
-        message = f"🔍 **OpenRouter Free Model Monitor Update** ({timestamp})\n✅ No changes detected. Total free models: {len(current_models)}"
+    if not has_changes and not is_initial_run:
+        print(f"✅ No changes detected ({timestamp}). Total free models: {len(current_models)}. Discord notification skipped.")
     else:
         message = f"🚨 **OpenRouter Free Model Monitor ALERT** ({timestamp})\n"
         if is_initial_run:
@@ -158,8 +159,8 @@ def main():
                 message += f"❌ **Removed ({len(removed)}):**\n" + "\n".join([f"- `{m}`" for m in removed]) + "\n"
         message += f"\n📊 Total free models now: {len(current_models)}"
 
-    print(message)
-    send_discord_message(message)
+        print(message)
+        send_discord_message(message)
 
     update_markdown(current_models)
 

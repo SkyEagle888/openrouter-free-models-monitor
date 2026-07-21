@@ -1,6 +1,6 @@
 ## Module Mappings
 
-- [x] `monitor.py` | Core: fetch OpenRouter free models, diff, notify, persist | Validated: 2026-04-30
+- [x] `monitor.py` | Core: fetch OpenRouter free models, diff, notify on change only, persist | Validated: 2026-07-21
 - [x] `models.json` | Data: current sorted list of free model IDs | Validated: 2026-04-30
 - [x] `CHANGELOG.json` | Data: change history (capped 100 entries) | Validated: 2026-04-30
 - [x] `MODELS.md` | Generated: human-readable model list grouped by provider | Validated: 2026-04-30
@@ -32,4 +32,5 @@
 - Dashboard/landing page: updated branding, not browser-tested yet ❌ → verified live on GitHub Pages ✅
 - GitHub Actions workflow: monitor + GitHub Pages deploy ✅ | Cloudflare job removed ✅
 - Discord notification: delivered ✅
+- Discord silence on no-change: validated 2026-07-21 ✅ (skips webhook when `added` + `removed` are empty)
 - GitHub Pages: https://skyeagle888.github.io/openrouter-free-models-monitor/ ✅

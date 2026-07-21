@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-07-20 18:20:48 GMT+8*
+*Last updated: 2026-07-21 12:56:31 GMT+8*
 
-Total Free Models: **14**
+Total Free Models: **13**
 
 ### 🏢 COHERE
 - `cohere/north-mini-code:free`
@@ -26,7 +26,4 @@ Total Free Models: **14**
 ### 🏢 POOLSIDE
 - `poolside/laguna-m.1:free`
 - `poolside/laguna-xs-2.1:free`
-
-### 🏢 TENCENT
-- `tencent/hy3:free`
 

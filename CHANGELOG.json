@@ -241,6 +241,14 @@
         "qwen/qwen3-next-80b-a3b-instruct:free"
       ],
       "total_models": 14
+    },
+    {
+      "timestamp": "2026-07-21T04:56:26.807635Z",
+      "added": [],
+      "removed": [
+        "tencent/hy3:free"
+      ],
+      "total_models": 13
     }
   ]
 }
