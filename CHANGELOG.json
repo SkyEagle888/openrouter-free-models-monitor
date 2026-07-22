@@ -249,6 +249,14 @@
         "tencent/hy3:free"
       ],
       "total_models": 13
+    },
+    {
+      "timestamp": "2026-07-22T09:39:26.639487Z",
+      "added": [
+        "poolside/laguna-s-2.1:free"
+      ],
+      "removed": [],
+      "total_models": 14
     }
   ]
 }
