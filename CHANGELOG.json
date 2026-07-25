@@ -257,6 +257,14 @@
       ],
       "removed": [],
       "total_models": 14
+    },
+    {
+      "timestamp": "2026-07-24T09:35:23.000573Z",
+      "added": [
+        "inclusionai/ling-3.0-flash:free"
+      ],
+      "removed": [],
+      "total_models": 15
     }
   ]
 }
