@@ -265,6 +265,14 @@
       ],
       "removed": [],
       "total_models": 15
+    },
+    {
+      "timestamp": "2026-07-29T09:58:01.473525Z",
+      "added": [],
+      "removed": [
+        "poolside/laguna-m.1:free"
+      ],
+      "total_models": 14
     }
   ]
 }
