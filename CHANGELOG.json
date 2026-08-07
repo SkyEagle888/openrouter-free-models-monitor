@@ -273,6 +273,16 @@
         "poolside/laguna-m.1:free"
       ],
       "total_models": 14
+    },
+    {
+      "timestamp": "2026-08-07T08:31:21.969711Z",
+      "added": [
+        "inclusionai/ling-3.0-tiny:free"
+      ],
+      "removed": [
+        "inclusionai/ling-3.0-flash:free"
+      ],
+      "total_models": 14
     }
   ]
 }

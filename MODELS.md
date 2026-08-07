@@ -1,6 +1,6 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-08-06 17:59:39 GMT+8*
+*Last updated: 2026-08-07 16:31:21 GMT+8*
 
 Total Free Models: **14**
 
@@ -12,7 +12,7 @@ Total Free Models: **14**
 - `google/gemma-4-31b-it:free`
 
 ### 🏢 INCLUSIONAI
-- `inclusionai/ling-3.0-flash:free`
+- `inclusionai/ling-3.0-tiny:free`
 
 ### 🏢 NVIDIA
 - `nvidia/nemotron-3-nano-30b-a3b:free`
