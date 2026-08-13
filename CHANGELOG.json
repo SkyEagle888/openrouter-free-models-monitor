@@ -292,6 +292,14 @@
       ],
       "removed": [],
       "total_models": 16
+    },
+    {
+      "timestamp": "2026-08-13T08:44:31.960980Z",
+      "added": [],
+      "removed": [
+        "inclusionai/ling-3.0-tiny:free"
+      ],
+      "total_models": 15
     }
   ]
 }
