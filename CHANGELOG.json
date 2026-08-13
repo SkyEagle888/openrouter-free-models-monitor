@@ -283,6 +283,15 @@
         "inclusionai/ling-3.0-flash:free"
       ],
       "total_models": 14
+    },
+    {
+      "timestamp": "2026-08-12T08:39:47.082693Z",
+      "added": [
+        "liquid/lfm-2.5-2.6b:free",
+        "nvidia/nemotron-3.5-lightning:free"
+      ],
+      "removed": [],
+      "total_models": 16
     }
   ]
 }
