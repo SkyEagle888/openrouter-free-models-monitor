@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-08-12 16:39:47 GMT+8*
+*Last updated: 2026-08-13 16:44:31 GMT+8*
 
-Total Free Models: **16**
+Total Free Models: **15**
 
 ### 🏢 COHERE
 - `cohere/north-mini-code:free`
@@ -10,9 +10,6 @@ Total Free Models: **16**
 ### 🏢 GOOGLE
 - `google/gemma-4-26b-a4b-it:free`
 - `google/gemma-4-31b-it:free`
-
-### 🏢 INCLUSIONAI
-- `inclusionai/ling-3.0-tiny:free`
 
 ### 🏢 LIQUID
 - `liquid/lfm-2.5-2.6b:free`
