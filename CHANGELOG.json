@@ -300,6 +300,14 @@
         "inclusionai/ling-3.0-tiny:free"
       ],
       "total_models": 15
+    },
+    {
+      "timestamp": "2026-08-15T07:44:37.304849Z",
+      "added": [
+        "dots-studio/dots-3-note-preview:free"
+      ],
+      "removed": [],
+      "total_models": 16
     }
   ]
 }
