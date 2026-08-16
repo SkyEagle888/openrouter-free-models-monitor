@@ -1,11 +1,14 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-08-14 16:38:13 GMT+8*
+*Last updated: 2026-08-15 15:44:37 GMT+8*
 
-Total Free Models: **15**
+Total Free Models: **16**
 
 ### 🏢 COHERE
 - `cohere/north-mini-code:free`
+
+### 🏢 DOTS-STUDIO
+- `dots-studio/dots-3-note-preview:free`
 
 ### 🏢 GOOGLE
 - `google/gemma-4-26b-a4b-it:free`
