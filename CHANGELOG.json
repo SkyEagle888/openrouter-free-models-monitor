@@ -308,6 +308,14 @@
       ],
       "removed": [],
       "total_models": 16
+    },
+    {
+      "timestamp": "2026-08-17T08:01:37.037128Z",
+      "added": [
+        "z-ai/glm-5.2:free"
+      ],
+      "removed": [],
+      "total_models": 17
     }
   ]
 }
