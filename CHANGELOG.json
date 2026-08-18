@@ -316,6 +316,14 @@
       ],
       "removed": [],
       "total_models": 17
+    },
+    {
+      "timestamp": "2026-08-18T07:55:12.305184Z",
+      "added": [],
+      "removed": [
+        "liquid/lfm-2.5-2.6b:free"
+      ],
+      "total_models": 16
     }
   ]
 }
