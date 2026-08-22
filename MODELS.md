@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-08-21 15:58:11 GMT+8*
+*Last updated: 2026-08-22 15:46:40 GMT+8*
 
-Total Free Models: **17**
+Total Free Models: **18**
 
 ### 🏢 COHERE
 - `cohere/north-mini-code:free`
@@ -27,12 +27,13 @@ Total Free Models: **17**
 - `nvidia/nemotron-nano-12b-v2-vl:free`
 - `nvidia/nemotron-nano-9b-v2:free`
 
-### 🏢 OPENAI
-- `openai/gpt-oss-20b:free`
-
 ### 🏢 POOLSIDE
 - `poolside/laguna-s-2.1:free`
 - `poolside/laguna-xs-2.1:free`
+
+### 🏢 THINKINGMACHINES
+- `thinkingmachines/inkling-small:free`
+- `thinkingmachines/inkling:free`
 
 ### 🏢 Z-AI
 - `z-ai/glm-5.2:free`

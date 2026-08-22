@@ -332,6 +332,17 @@
       ],
       "removed": [],
       "total_models": 17
+    },
+    {
+      "timestamp": "2026-08-22T07:46:40.387420Z",
+      "added": [
+        "thinkingmachines/inkling-small:free",
+        "thinkingmachines/inkling:free"
+      ],
+      "removed": [
+        "openai/gpt-oss-20b:free"
+      ],
+      "total_models": 18
     }
   ]
 }
