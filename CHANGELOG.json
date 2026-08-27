@@ -356,6 +356,14 @@
         "nvidia/nemotron-nano-9b-v2:free"
       ],
       "total_models": 17
+    },
+    {
+      "timestamp": "2026-08-27T18:17:46.029496Z",
+      "added": [
+        "inclusionai/ling-3.0-flash-fin:free"
+      ],
+      "removed": [],
+      "total_models": 18
     }
   ]
 }
