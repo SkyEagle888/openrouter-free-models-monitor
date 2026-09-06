@@ -364,6 +364,14 @@
       ],
       "removed": [],
       "total_models": 18
+    },
+    {
+      "timestamp": "2026-09-05T11:16:36.503508Z",
+      "added": [
+        "inclusionai/ling-3.0-flash-sante:free"
+      ],
+      "removed": [],
+      "total_models": 19
     }
   ]
 }
