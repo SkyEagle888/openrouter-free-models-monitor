@@ -389,6 +389,15 @@
         "minimax/minimax-m3:free"
       ],
       "total_models": 16
+    },
+    {
+      "timestamp": "2026-09-09T12:20:38.413598Z",
+      "added": [
+        "nex-agi/nex-n2.5-mini:free",
+        "nex-agi/nex-n2.5-pro:free"
+      ],
+      "removed": [],
+      "total_models": 18
     }
   ]
 }
