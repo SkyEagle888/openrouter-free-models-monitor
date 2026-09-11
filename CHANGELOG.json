@@ -398,6 +398,14 @@
       ],
       "removed": [],
       "total_models": 18
+    },
+    {
+      "timestamp": "2026-09-11T12:13:14.609623Z",
+      "added": [
+        "inclusionai/ling-3.0-flash-vl:free"
+      ],
+      "removed": [],
+      "total_models": 19
     }
   ]
 }
