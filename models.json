@@ -17,5 +17,6 @@
   "poolside/laguna-s-2.1:free",
   "poolside/laguna-xs-2.1:free",
   "thinkingmachines/inkling-small:free",
-  "thinkingmachines/inkling:free"
+  "thinkingmachines/inkling:free",
+  "z-ai/glm-5.2:free"
 ]
