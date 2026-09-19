@@ -1,11 +1,14 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-09-17 20:36:05 GMT+8*
+*Last updated: 2026-09-18 20:14:17 GMT+8*
 
-Total Free Models: **20**
+Total Free Models: **22**
 
 ### 🏢 COHERE
 - `cohere/north-mini-code:free`
+
+### 🏢 DEEPSEEK
+- `deepseek/deepseek-v4-flash-0731:free`
 
 ### 🏢 DOTS-STUDIO
 - `dots-studio/dots-3-note-preview:free`
@@ -36,6 +39,9 @@ Total Free Models: **20**
 ### 🏢 POOLSIDE
 - `poolside/laguna-s-2.1:free`
 - `poolside/laguna-xs-2.1:free`
+
+### 🏢 QWEN
+- `qwen/qwen3.8-27b:free`
 
 ### 🏢 THINKINGMACHINES
 - `thinkingmachines/inkling-small:free`
