@@ -423,6 +423,14 @@
       ],
       "removed": [],
       "total_models": 22
+    },
+    {
+      "timestamp": "2026-09-20T12:24:11.974743Z",
+      "added": [],
+      "removed": [
+        "deepseek/deepseek-v4-flash-0731:free"
+      ],
+      "total_models": 21
     }
   ]
 }
