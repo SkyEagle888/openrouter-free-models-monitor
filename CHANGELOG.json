@@ -431,6 +431,14 @@
         "deepseek/deepseek-v4-flash-0731:free"
       ],
       "total_models": 21
+    },
+    {
+      "timestamp": "2026-09-24T12:44:31.044082Z",
+      "added": [],
+      "removed": [
+        "inclusionai/ling-3.0-flash-vl:free"
+      ],
+      "total_models": 20
     }
   ]
 }
