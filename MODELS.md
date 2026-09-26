@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-09-25 20:47:12 GMT+8*
+*Last updated: 2026-09-26 20:14:44 GMT+8*
 
-Total Free Models: **20**
+Total Free Models: **17**
 
 ### 🏢 COHERE
 - `cohere/north-mini-code:free`
@@ -21,10 +21,6 @@ Total Free Models: **20**
 ### 🏢 LIQUID
 - `liquid/lfm-2.5-2.6b:free`
 
-### 🏢 NEX-AGI
-- `nex-agi/nex-n2.5-mini:free`
-- `nex-agi/nex-n2.5-pro:free`
-
 ### 🏢 NVIDIA
 - `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`
 - `nvidia/nemotron-3-super-120b-a12b:free`
@@ -42,7 +38,4 @@ Total Free Models: **20**
 ### 🏢 THINKINGMACHINES
 - `thinkingmachines/inkling-small:free`
 - `thinkingmachines/inkling:free`
-
-### 🏢 Z-AI
-- `z-ai/glm-5.2:free`
 
