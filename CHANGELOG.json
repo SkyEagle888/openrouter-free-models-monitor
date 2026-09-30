@@ -449,6 +449,14 @@
         "z-ai/glm-5.2:free"
       ],
       "total_models": 17
+    },
+    {
+      "timestamp": "2026-09-29T14:05:27.910994Z",
+      "added": [],
+      "removed": [
+        "inclusionai/ling-3.0-flash-fin:free"
+      ],
+      "total_models": 16
     }
   ]
 }
