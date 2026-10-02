@@ -457,6 +457,14 @@
         "inclusionai/ling-3.0-flash-fin:free"
       ],
       "total_models": 16
+    },
+    {
+      "timestamp": "2026-10-02T13:53:19.526001Z",
+      "added": [
+        "apodex/apodex-1.1-mini:free"
+      ],
+      "removed": [],
+      "total_models": 17
     }
   ]
 }
