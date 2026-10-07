@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-10-06 00:03:09 GMT+8*
+*Last updated: 2026-10-06 22:12:51 GMT+8*
 
-Total Free Models: **17**
+Total Free Models: **16**
 
 ### 🏢 APODEX
 - `apodex/apodex-1.1-mini:free`
@@ -33,9 +33,6 @@ Total Free Models: **17**
 ### 🏢 POOLSIDE
 - `poolside/laguna-s-2.1:free`
 - `poolside/laguna-xs-2.1:free`
-
-### 🏢 QWEN
-- `qwen/qwen3.8-27b:free`
 
 ### 🏢 THINKINGMACHINES
 - `thinkingmachines/inkling-small:free`

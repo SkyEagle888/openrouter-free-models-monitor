@@ -13,7 +13,6 @@
   "nvidia/nemotron-3.5-lightning:free",
   "poolside/laguna-s-2.1:free",
   "poolside/laguna-xs-2.1:free",
-  "qwen/qwen3.8-27b:free",
   "thinkingmachines/inkling-small:free",
   "thinkingmachines/inkling:free"
 ]
