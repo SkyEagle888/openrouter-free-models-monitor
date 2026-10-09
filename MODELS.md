@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-10-08 22:36:10 GMT+8*
+*Last updated: 2026-10-09 22:22:55 GMT+8*
 
-Total Free Models: **16**
+Total Free Models: **15**
 
 ### 🏢 APODEX
 - `apodex/apodex-1.1-mini:free`
@@ -16,9 +16,6 @@ Total Free Models: **16**
 ### 🏢 GOOGLE
 - `google/gemma-4-26b-a4b-it:free`
 - `google/gemma-4-31b-it:free`
-
-### 🏢 INCLUSIONAI
-- `inclusionai/ling-3.0-flash-sante:free`
 
 ### 🏢 LIQUID
 - `liquid/lfm-2.5-2.6b:free`
