@@ -481,6 +481,14 @@
         "inclusionai/ling-3.0-flash-sante:free"
       ],
       "total_models": 15
+    },
+    {
+      "timestamp": "2026-10-14T12:53:19.641920Z",
+      "added": [],
+      "removed": [
+        "apodex/apodex-1.1-mini:free"
+      ],
+      "total_models": 14
     }
   ]
 }
