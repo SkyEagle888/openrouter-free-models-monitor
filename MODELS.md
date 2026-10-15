@@ -1,11 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-10-13 23:04:43 GMT+8*
+*Last updated: 2026-10-14 20:53:19 GMT+8*
 
-Total Free Models: **15**
-
-### 🏢 APODEX
-- `apodex/apodex-1.1-mini:free`
+Total Free Models: **14**
 
 ### 🏢 COHERE
 - `cohere/north-mini-code:free`
