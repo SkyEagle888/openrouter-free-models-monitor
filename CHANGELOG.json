@@ -489,6 +489,14 @@
         "apodex/apodex-1.1-mini:free"
       ],
       "total_models": 14
+    },
+    {
+      "timestamp": "2026-10-16T12:27:18.803290Z",
+      "added": [
+        "nvidia/nemotron-3.5-super-vl:free"
+      ],
+      "removed": [],
+      "total_models": 15
     }
   ]
 }
