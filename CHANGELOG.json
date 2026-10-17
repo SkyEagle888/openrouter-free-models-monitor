@@ -497,6 +497,14 @@
       ],
       "removed": [],
       "total_models": 15
+    },
+    {
+      "timestamp": "2026-10-17T11:38:11.891745Z",
+      "added": [
+        "xingchen-agi/xing4.0-29b-a4b:free"
+      ],
+      "removed": [],
+      "total_models": 16
     }
   ]
 }
