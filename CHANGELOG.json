@@ -505,6 +505,14 @@
       ],
       "removed": [],
       "total_models": 16
+    },
+    {
+      "timestamp": "2026-10-19T14:41:45.394758Z",
+      "added": [
+        "minimax/minimax-m3.1-flash:free"
+      ],
+      "removed": [],
+      "total_models": 17
     }
   ]
 }
