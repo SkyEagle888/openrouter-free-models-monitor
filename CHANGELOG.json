@@ -513,6 +513,14 @@
       ],
       "removed": [],
       "total_models": 17
+    },
+    {
+      "timestamp": "2026-10-22T12:58:54.021409Z",
+      "added": [
+        "recursive/flint-v1.0:free"
+      ],
+      "removed": [],
+      "total_models": 18
     }
   ]
 }
