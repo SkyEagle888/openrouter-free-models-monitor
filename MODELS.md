@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-10-26 22:17:41 GMT+8*
+*Last updated: 2026-10-27 21:13:57 GMT+8*
 
-Total Free Models: **17**
+Total Free Models: **16**
 
 ### 🏢 COHERE
 - `cohere/north-mini-code:free`
@@ -19,7 +19,6 @@ Total Free Models: **17**
 
 ### 🏢 NVIDIA
 - `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`
-- `nvidia/nemotron-3-super-120b-a12b:free`
 - `nvidia/nemotron-3-ultra-550b-a55b:free`
 - `nvidia/nemotron-3.5-content-safety:free`
 - `nvidia/nemotron-3.5-lightning:free`

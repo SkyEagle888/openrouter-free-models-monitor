@@ -529,6 +529,14 @@
         "minimax/minimax-m3.1-flash:free"
       ],
       "total_models": 17
+    },
+    {
+      "timestamp": "2026-10-27T13:13:57.020043Z",
+      "added": [],
+      "removed": [
+        "nvidia/nemotron-3-super-120b-a12b:free"
+      ],
+      "total_models": 16
     }
   ]
 }
