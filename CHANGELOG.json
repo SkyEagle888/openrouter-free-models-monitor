@@ -537,6 +537,15 @@
         "nvidia/nemotron-3-super-120b-a12b:free"
       ],
       "total_models": 16
+    },
+    {
+      "timestamp": "2026-10-31T13:40:03.943245Z",
+      "added": [],
+      "removed": [
+        "poolside/laguna-s-2.1:free",
+        "poolside/laguna-xs-2.1:free"
+      ],
+      "total_models": 14
     }
   ]
 }

@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-10-30 22:12:06 GMT+8*
+*Last updated: 2026-10-31 21:40:03 GMT+8*
 
-Total Free Models: **16**
+Total Free Models: **14**
 
 ### 🏢 COHERE
 - `cohere/north-mini-code:free`
@@ -23,10 +23,6 @@ Total Free Models: **16**
 - `nvidia/nemotron-3.5-content-safety:free`
 - `nvidia/nemotron-3.5-lightning:free`
 - `nvidia/nemotron-3.5-super-vl:free`
-
-### 🏢 POOLSIDE
-- `poolside/laguna-s-2.1:free`
-- `poolside/laguna-xs-2.1:free`
 
 ### 🏢 RECURSIVE
 - `recursive/flint-v1.0:free`
