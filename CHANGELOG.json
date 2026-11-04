@@ -546,6 +546,15 @@
         "poolside/laguna-xs-2.1:free"
       ],
       "total_models": 14
+    },
+    {
+      "timestamp": "2026-11-04T15:27:05.831976Z",
+      "added": [],
+      "removed": [
+        "thinkingmachines/inkling-small:free",
+        "thinkingmachines/inkling:free"
+      ],
+      "total_models": 12
     }
   ]
 }

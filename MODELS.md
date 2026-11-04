@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-11-03 23:10:36 GMT+8*
+*Last updated: 2026-11-04 23:27:05 GMT+8*
 
-Total Free Models: **14**
+Total Free Models: **12**
 
 ### 🏢 COHERE
 - `cohere/north-mini-code:free`
@@ -26,10 +26,6 @@ Total Free Models: **14**
 
 ### 🏢 RECURSIVE
 - `recursive/flint-v1.0:free`
-
-### 🏢 THINKINGMACHINES
-- `thinkingmachines/inkling-small:free`
-- `thinkingmachines/inkling:free`
 
 ### 🏢 XINGCHEN-AGI
 - `xingchen-agi/xing4.0-29b-a4b:free`
