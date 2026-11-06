@@ -555,6 +555,14 @@
         "thinkingmachines/inkling:free"
       ],
       "total_models": 12
+    },
+    {
+      "timestamp": "2026-11-06T15:05:02.555182Z",
+      "added": [],
+      "removed": [
+        "nvidia/nemotron-3.5-content-safety:free"
+      ],
+      "total_models": 11
     }
   ]
 }
