@@ -563,6 +563,14 @@
         "nvidia/nemotron-3.5-content-safety:free"
       ],
       "total_models": 11
+    },
+    {
+      "timestamp": "2026-11-07T14:04:02.590253Z",
+      "added": [
+        "liquid/lfm-3-1.7b:free"
+      ],
+      "removed": [],
+      "total_models": 12
     }
   ]
 }
