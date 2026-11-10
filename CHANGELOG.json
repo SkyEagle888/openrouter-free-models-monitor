@@ -571,6 +571,14 @@
       ],
       "removed": [],
       "total_models": 12
+    },
+    {
+      "timestamp": "2026-11-10T15:36:41.142393Z",
+      "added": [
+        "thinkingmachines/inkling-2-small:free"
+      ],
+      "removed": [],
+      "total_models": 13
     }
   ]
 }
