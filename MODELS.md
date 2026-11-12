@@ -1,8 +1,11 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-11-10 23:36:41 GMT+8*
+*Last updated: 2026-11-11 23:15:18 GMT+8*
 
 Total Free Models: **13**
+
+### 🏢 BAIDU
+- `baidu/ernie-5.5-flash-preview:free`
 
 ### 🏢 COHERE
 - `cohere/north-mini-code:free`
@@ -29,7 +32,4 @@ Total Free Models: **13**
 
 ### 🏢 THINKINGMACHINES
 - `thinkingmachines/inkling-2-small:free`
-
-### 🏢 XINGCHEN-AGI
-- `xingchen-agi/xing4.0-29b-a4b:free`
 
