@@ -1,6 +1,6 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-11-12 23:59:18 GMT+8*
+*Last updated: 2026-11-13 23:25:02 GMT+8*
 
 Total Free Models: **13**
 
@@ -18,7 +18,6 @@ Total Free Models: **13**
 - `google/gemma-4-31b-it:free`
 
 ### 🏢 LIQUID
-- `liquid/lfm-2.5-2.6b:free`
 - `liquid/lfm-3-1.7b:free`
 
 ### 🏢 NVIDIA
@@ -26,6 +25,9 @@ Total Free Models: **13**
 - `nvidia/nemotron-3-ultra-550b-a55b:free`
 - `nvidia/nemotron-3.5-lightning:free`
 - `nvidia/nemotron-3.5-super-vl:free`
+
+### 🏢 PARTICLE-AI
+- `particle-ai/particle-1:free`
 
 ### 🏢 RECURSIVE
 - `recursive/flint-v1.0:free`
