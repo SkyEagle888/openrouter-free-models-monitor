@@ -599,6 +599,14 @@
         "liquid/lfm-2.5-2.6b:free"
       ],
       "total_models": 13
+    },
+    {
+      "timestamp": "2026-11-14T14:10:16.980945Z",
+      "added": [
+        "inclusionai/ling-3.2-flash:free"
+      ],
+      "removed": [],
+      "total_models": 14
     }
   ]
 }
