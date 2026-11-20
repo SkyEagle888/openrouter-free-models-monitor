@@ -1,8 +1,8 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-11-19 00:28:26 GMT+8*
+*Last updated: 2026-11-20 00:35:10 GMT+8*
 
-Total Free Models: **14**
+Total Free Models: **13**
 
 ### 🏢 BAIDU
 - `baidu/ernie-5.5-flash-preview:free`
@@ -34,7 +34,4 @@ Total Free Models: **14**
 
 ### 🏢 RECURSIVE
 - `recursive/flint-v1.0:free`
-
-### 🏢 THINKINGMACHINES
-- `thinkingmachines/inkling-2-small:free`
 
