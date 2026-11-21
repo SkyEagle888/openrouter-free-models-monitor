@@ -1,14 +1,11 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-11-20 00:35:10 GMT+8*
+*Last updated: 2026-11-21 00:10:05 GMT+8*
 
-Total Free Models: **13**
+Total Free Models: **12**
 
 ### 🏢 BAIDU
 - `baidu/ernie-5.5-flash-preview:free`
-
-### 🏢 COHERE
-- `cohere/north-mini-code:free`
 
 ### 🏢 DOTS-STUDIO
 - `dots-studio/dots-3-note-preview:free`

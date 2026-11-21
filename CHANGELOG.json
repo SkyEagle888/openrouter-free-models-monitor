@@ -615,6 +615,14 @@
         "thinkingmachines/inkling-2-small:free"
       ],
       "total_models": 13
+    },
+    {
+      "timestamp": "2026-11-20T16:10:05.390457Z",
+      "added": [],
+      "removed": [
+        "cohere/north-mini-code:free"
+      ],
+      "total_models": 12
     }
   ]
 }
