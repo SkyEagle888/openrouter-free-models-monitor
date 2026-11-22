@@ -623,6 +623,14 @@
         "cohere/north-mini-code:free"
       ],
       "total_models": 12
+    },
+    {
+      "timestamp": "2026-11-21T15:23:42.321539Z",
+      "added": [],
+      "removed": [
+        "dots-studio/dots-3-note-preview:free"
+      ],
+      "total_models": 11
     }
   ]
 }
