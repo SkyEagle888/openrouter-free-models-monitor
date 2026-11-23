@@ -631,6 +631,14 @@
         "dots-studio/dots-3-note-preview:free"
       ],
       "total_models": 11
+    },
+    {
+      "timestamp": "2026-11-23T19:15:18.330716Z",
+      "added": [
+        "dots-studio/dots-3-note-preview:free"
+      ],
+      "removed": [],
+      "total_models": 12
     }
   ]
 }
