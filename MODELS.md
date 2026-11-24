@@ -1,11 +1,14 @@
 # 📋 OpenRouter Free Models List
 
-*Last updated: 2026-11-22 23:20:12 GMT+8*
+*Last updated: 2026-11-24 03:15:18 GMT+8*
 
-Total Free Models: **11**
+Total Free Models: **12**
 
 ### 🏢 BAIDU
 - `baidu/ernie-5.5-flash-preview:free`
+
+### 🏢 DOTS-STUDIO
+- `dots-studio/dots-3-note-preview:free`
 
 ### 🏢 GOOGLE
 - `google/gemma-4-26b-a4b-it:free`
