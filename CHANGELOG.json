@@ -647,6 +647,14 @@
         "dots-studio/dots-3-note-preview:free"
       ],
       "total_models": 11
+    },
+    {
+      "timestamp": "2026-11-27T17:28:40.336012Z",
+      "added": [],
+      "removed": [
+        "inclusionai/ling-3.2-flash:free"
+      ],
+      "total_models": 10
     }
   ]
 }
